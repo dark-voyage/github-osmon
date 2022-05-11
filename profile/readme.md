@@ -7,3 +7,7 @@
 <p align="center">O'zbek boshlang'ichlari uchun o'rgatuvchi til | Language made for uzbek learners</p>
 
 <p align="center"><a href="https://osmon.dev">Website</a> | <a href="https://wiki.osmon.dev">Wiki</a></p>
+
+<p align="center"><b align="center">Xissasini qo'shayotganlar:</b></p>
+
+<p align="center"><a href="https://uwussi.moe">UwUssimo (Muallif)</a> <a href="https://github.com/MrAbdurakhimov">Mukhammadyusuf (osmon-react)</a> <a href="https://github.com/saidofficial">Fromgodd (osmon-script)</a> <a href="https://github.com/genemators">Genemator (osmon-script)</a></p>
