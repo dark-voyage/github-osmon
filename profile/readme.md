@@ -10,4 +10,4 @@
 
 <p align="center"><b align="center">Xissasini qo'shayotganlar:</b></p>
 
-<p align="center"><a href="https://github.com/uwussimo">UwUssimo (muallif)</a> | <a href="https://github.com/MrAbdurakhimov">Mukhammadyusuf (osmon-react)</a> | <a href="https://github.com/saidofficial">Fromgodd (osmon-wasm)</a> | <a href="https://github.com/genemators">Genemator (osmon-script)</a></p>
+<p align="center"><a href="https://github.com/uwussimo">UwUssimo (birinchi muallif)</a> | <a href="https://github.com/MrAbdurakhimov">Mukhammadyusuf (osmon-react)</a> | <a href="https://github.com/saidofficial">Fromgodd (hozirgi muallif)</a> | <a href="https://github.com/genemators">Genemator (osmon-script)</a></p>
