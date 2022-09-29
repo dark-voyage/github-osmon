@@ -9,5 +9,3 @@
 <p align="center"><a href="https://osmon.dev">Website</a> | <a href="https://wiki.osmon.dev">Wiki</a></p>
 
 <p align="center"><b align="center">Xissasini qo'shayotganlar:</b></p>
-
-<p align="center"><a href="https://github.com/uwussimo">UwUssimo (Core Maintainer | Author)</a> | <a href="https://github.com/saidofficial">Fromgodd (Main Contributor)</a></p>
